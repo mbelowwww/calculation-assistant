@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">calculation</string>
+    <string name="app_name">Calculation assistant</string>
     <string name="name">Расчёт итоговой стоимости</string>
     <string name="heightFeetMessage">Введите высоту в футах</string>
     <string name="heightMeters"></string>
@@ -7,6 +7,17 @@
     <string name="minus">-</string>
     <string name="operation">Выберите операцию</string>
     <string name="heightAeroMeterMessage">Введите превышение аэродрома в метрах</string>
-    <string name="resultBtn">Расчитать</string>
+    <string name="resultBtn">Рассчитать</string>
     <string name="resultValueText" />
+    <string name="title_activity_main">Calculation assistant</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="finalHeightActivityBtn">Расчёт итоговой высоты</string>
+    <string name="textMessage">Выберите нужный расчёт</string>
 </resources>
