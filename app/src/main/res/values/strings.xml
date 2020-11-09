@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">calculation</string>
+    <string name="name">Расчёт итоговой стоимости</string>
+    <string name="heightFeetMessage">Введите высоту в футах</string>
+    <string name="heightMeters"></string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="operation">Выберите операцию</string>
+    <string name="heightAeroMeterMessage">Введите превышение аэродрома в метрах</string>
+    <string name="resultBtn">Расчитать</string>
+    <string name="resultValueText" />
+</resources>
