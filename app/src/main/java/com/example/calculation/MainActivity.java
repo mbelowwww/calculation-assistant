@@ -74,6 +74,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+
         Button plus = (Button) findViewById(R.id.plusBtn);
 
         Button minus = (Button) findViewById(R.id.minusBtn);
